@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_individual1">Жилая недвижимость</string>
+    <string name="menu_individual2">Авто, Мото</string>
+    <string name="menu_individual3">Предметы быта</string>
+    <string name="menu_individual4">Строительство, ремонт</string>
+    <string name="menu_individual5">Работа</string>
+    <string name="menu_individual6">Личная жизнь</string>
+    <string name="menu_individual7">Услуги</string>
+
+
+    <string-array name="menu_individual1_childs">
+        <item>Аренда жилья</item>
+        <item>Покупка жилья</item>
+        <item>Квартиры в новостройках</item>
+        <item>Продажа мн-х, элитных</item>
+        <item>Продажа 1-комн.кв.</item>
+        <item>Продажа 2-комн.кв.</item>
+        <item>Продажа 3-комн.кв.</item>
+        <item>Продажа 4-комн.кв.</item>
+        <item>Продажа гостинок, комнат</item>
+        <item>Гаражи</item>
+        <item>Участки в Харькове</item>
+        <item>Участки в пригороде</item>
+        <item>Участки в Харьковской области</item>
+        <item>Продажа домов в Харькове</item>
+        <item>Продажа домов в пригороде</item>
+        <item>Дома в Харьковской области</item>
+        <item>Дачи</item>
+        <item>Недвижимость в Украине</item>
+        <item>Недвижимость за рубежом</item>
+        <item>Курортные районы</item>
+        <item>Обмен</item>
+
+    </string-array>
+    <string-array name="menu_individual2_childs">
+        <item>Аренда автомобилей</item>
+        <item>Покупка автомобилей</item>
+        <item>Продажа автомобилей</item>
+        <item>Мотоциклы, скутеры</item>
+        <item>Катера</item>
+        <item>Трейлеры, прицепы</item>
+        <item>Аварийные автомобили</item>
+        <item>Запчасти на автомобили СНГ</item>
+        <item>Запчасти на иномарки</item>
+        <item>Охранные, противоугонные системы</item>
+        <item>Автоаксессуары, автохимия</item>
+        <item>Разное</item>
+
+    </string-array>
+    <string-array name="menu_individual3_childs">
+        <item>Мебель, интерьер</item>
+        <item>Кухонное оборудование</item>
+        <item>Электробытовые товары</item>
+        <item>Аудио-, видеоаппаратура</item>
+        <item>Кино-, фотоаппаратура, оптика</item>
+        <item>Мобильные телефоны, КПК</item>
+        <item>Компьютеры, игровые приставки</item>
+        <item>Одежда, обувь, аксессуары</item>
+        <item>Детские товары</item>
+        <item>Продукты питания</item>
+        <item>Медицинские товары</item>
+        <item>Косметика, парфюмерия</item>
+        <item>Ювелирные изделия, часы</item>
+        <item>Хозтовары</item>
+        <item>Разное</item>
+
+    </string-array>
+    <string-array name="menu_individual4_childs">
+        <item>ЖБИ, бетоны</item>
+        <item>Строительные материалы</item>
+        <item>Металл, металлоконструкции</item>
+        <item>Пиломатериалы</item>
+        <item>Кровельные материалы</item>
+        <item>Изоляционные материалы</item>
+        <item>Отделочные материалы</item>
+        <item>Сантехника</item>
+        <item>Вентиляция, кондиционирование</item>
+        <item>Отопление</item>
+        <item>Электротехника</item>
+        <item>Двери, ворота</item>
+        <item>Окна, остекление</item>
+        <item> Экстерьер, ландшафт</item>
+        <item>Акватехнологии, бассейны, сауны</item>
+        <item>Строительный инструмент</item>
+        <item>Разное</item>
+
+    </string-array>
+    <string-array name="menu_individual5_childs">
+        <item>Ищу работу</item>
+        <item>Охрана, экспедиторы</item>
+        <item>Водители ищут работу</item>
+        <item>Водители требуются</item>
+        <item>Секретари, офисный персонал</item>
+        <item>Полиграфисты, дизайнеры</item>
+        <item>Строители</item>
+        <item>Автосервис</item>
+        <item>Грузчики</item>
+        <item>Рабочие</item>
+        <item>Инженеры, технологи</item>
+        <item>Складские работники</item>
+        <item>Специалисты</item>
+        <item>Надомники</item>
+        <item>Неполная занятость</item>
+        <item>Домработницы, няни</item>
+        <item>Торговля (промтовары)</item>
+        <item>Торговля (продтовары)</item>
+        <item>Бухгалтеры, экономисты</item>
+        <item>Швейники (одежда)</item>
+        <item>Швейники (обувь и прочее)</item>
+        <item>Уборщики, мойщики</item>
+        <item>Общепит</item>
+        <item>Руководители</item>
+        <item>Менеджеры</item>
+        <item>Компьютерные специалисты</item>
+        <item>Косметология</item>
+        <item>Медицина, фармацевтика</item>
+        <item>Агенты</item>
+        <item>Разное</item>
+
+    </string-array>
+    <string-array name="menu_individual6_childs">
+        <item>Сообщения частных лиц</item>
+        <item>Подарю, приму в дар, благотворительность</item>
+        <item>Прошу помочь</item>
+        <item>Пропажи, находки</item>
+        <item>Билеты</item>
+        <item>Семья, брак</item>
+        <item>Коллекции, хобби</item>
+        <item>Животные, растения</item>
+        <item>Музыкальные инструменты</item>
+        <item>Спортинвентарь</item>
+        <item>Туризм в Украине</item>
+        <item>Зарубежный туризм</item>
+        <item>Визы, загранпаспорта</item>
+        <item>Активный отдых</item>
+        <item>Торжества</item>
+        <item>Помощь в жизненных ситуациях</item>
+        <item>Знакомства</item>
+        <item>Разное</item>
+
+    </string-array>
+    <string-array name="menu_individual7_childs">
+        <item>Авторемонт, тюнинг</item>
+        <item>Изготовление и ремонт мебели</item>
+        <item>Ремонт бытовой техники</item>
+        <item>Ремонт и обслуживание компьютеров</item>
+        <item>Пошив и ремонт одежды</item>
+        <item>Строительные услуги</item>
+        <item>Ремонт квартир, домов</item>
+        <item>Дизайн, проектирование</item>
+        <item>Демонтаж</item>
+        <item>Сантехнические работы</item>
+        <item>Электромонтажные работы</item>
+        <item>Услуги спецтехники</item>
+        <item>Грузовые перевозки</item>
+        <item>Пассажирские перевозки</item>
+        <item>Автоэвакуаторы</item>
+        <item>Такси</item>
+        <item>Медицинские услуги</item>
+        <item>Косметологические услуги</item>
+        <item>Оздоровительные услуги</item>
+        <item>Ветеринарные услуги</item>
+        <item>Юридические, нотариальные услуги</item>
+        <item>Страхование</item>
+        <item>Финансовые услуги</item>
+        <item>Образовательные услуги</item>
+        <item>Помощь по дому</item>
+        <item>Ритуальные услуги</item>
+        <item>Разное</item>
+
+    </string-array>
+
+
+
+
+</resources>

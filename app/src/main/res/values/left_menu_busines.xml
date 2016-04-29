@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_business1">Деловые сообщения</string>
+    <string name="menu_business2">Коммерческая недвижимость</string>
+    <string name="menu_business3">Транспорт</string>
+    <string name="menu_business4">Оптовая, мелкооптовая торговля</string>
+    <string name="menu_business5">Предметы работы</string>
+    <string name="menu_business6">Бизнес-услуги</string>
+
+    <string-array name="menu_business_childs1">
+        <item>Сообщения</item>
+        <item>Выставки, презентации, акции</item>
+        <item>Готовый бизнес</item>
+        <item>Деловое партнерство, тендеры</item>
+    </string-array>
+
+    <string-array name="menu_business_childs2">
+        <item> Гостиницы</item>
+        <item>Аренда коммерческой недвижимости</item>
+        <item>Покупка коммерческой недвижимости</item>
+        <item>Продажа коммерческой недвижимости</item>
+        <item>Участки под бизнес</item>
+        <item>Места на рынках</item>
+        <item>Киоски, павильоны</item>
+        <item>Недвижимость в Украине</item>
+        <item>Недвижимость за рубежом</item>
+    </string-array>
+
+    <string-array name="menu_business_childs3">
+        <item>Малый коммерческий, грузопассажирский</item>
+        <item>Грузовые автомобили</item>
+        <item>Прицепы, полуприцепы, цистерны</item>
+        <item>Автобусы, микроавтобусы</item>
+        <item>Спецтехника</item>
+        <item>Сельхозтехника, тракторы</item>
+        <item>Запчасти, принадлежности</item>
+        <item>Услуги гаражей, стоянок</item>
+        <item>Оборудование для АЗС и СТО</item>
+        <item>Горюче-смазочные материалы</item>
+        <item>Ремонт и обслуживание</item>
+        <item> Разное</item>
+    </string-array>
+    <string-array name="menu_business_childs4">
+        <item>Товары народного потребления</item>
+        <item>Секонд-хенд</item>
+        <item>Стройматериалы</item>
+        <item>Металлопрокат</item>
+        <item>Сельхозпродукция</item>
+    </string-array>
+    <string-array name="menu_business_childs5">
+        <item>Оргтехника для бизнеса</item>
+        <item>Канцтовары</item>
+        <item>Охранные системы, средства связи, АТС</item>
+        <item>Складское оборудование</item>
+        <item>Производственное оборудование</item>
+        <item>Строительное оборудование</item>
+        <item>Торговое и холодильное оборудование</item>
+        <item>Пищевое оборудование</item>
+        <item>Швейное оборудование, фурнитура, материалы</item>
+        <item>Мебельное оборудование, фурнитура, материалы</item>
+        <item>Инструмент, расходные материалы</item>
+        <item>Электрооборудование</item>
+        <item>Тара, упаковка, упаковочное оборудование</item>
+        <item>Спецодежда, униформа</item>
+        <item> Сырье</item>
+        <item> Разное</item>
+    </string-array>
+    <string-array name="menu_business_childs6">
+        <item>Уборка офисов</item>
+        <item>Швейное дело</item>
+        <item>Капитальное строительство, услуги спецтехники</item>
+        <item>Производственные услуги</item>
+        <item>Ремонт оборудования</item>
+        <item>Финансы и кредит</item>
+        <item>Бухгалтерия, аудит</item>
+        <item>Консалтинг, перевод документов</item>
+        <item>Юридические услуги</item>
+        <item>Курьерские услуги</item>
+        <item>Подбор кадров</item>
+        <item>Бизнес-семинары, бизнес-тренинги</item>
+        <item>Логистика, транспортные услуги</item>
+        <item>Охрана, безопасность, сыск</item>
+        <item>Разработка ПО, создание сайтов</item>
+        <item>Полиграфия, реклама</item>
+        <item> Разное</item>
+    </string-array>
+
+</resources>
